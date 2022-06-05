@@ -19,6 +19,10 @@ h2 {
   padding: 0 15% 0 15%;
 }
 
+p {
+  color: #8F8F8F;
+}
+
 .container-fluid {
   padding: 3% 15%;
 }
@@ -42,7 +46,6 @@ h2 {
 }
 
 .feature-paragraph {
-  color: #8F8F8F;
   padding: 0 75px 0 75px;
 }
 
@@ -89,4 +92,9 @@ h2 {
   background-color: #EF8273;
   text-align: center;
   padding-bottom: 3%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
 }
