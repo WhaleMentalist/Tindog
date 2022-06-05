@@ -1,7 +1,7 @@
 # Tindog
   Project from Udemy course that explores the Boostrap API.
 
-  Although the course uses Bootstrap 4, I have utlized Boostrap 5 by reading the documentation and performing slight adjustments to accomodate the new features. I want to track the progress made as I advance through the module and to demonstrate basic knowledge of Bootstrap.
+  Although the course uses Bootstrap 4, I have utlized Boostrap 5 by reading the documentation and performing slight adjustments to accomodate the new features. I want to track the progress made as I advance through the module and to demonstrate basic knowledge of Bootstrap. The main objective is to create responsive websites aka websites that are usable on a multitude of device types (i.e desktop, tablet, or phone).
   
   This README will also act as my notes as I advance through the module. I want to record sources and to also preserve my thoughts.
   
