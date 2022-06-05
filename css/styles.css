@@ -1,0 +1,92 @@
+/* font-family: 'Ubuntu', sans-serif; */
+
+/* Global values */
+body {
+  font-family: 'Montserrat-Black', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  padding: 0 15% 0 15%;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Download Buttons */
+.download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+.feature-icon {
+  color: #EF8273;
+}
+
+.feature-icon:hover {
+  color: #FF4C68;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.feature-paragraph {
+  color: #8F8F8F;
+  padding: 0 75px 0 75px;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.testimonial-img {
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* Static pixel size due to phone creating single column
+   and expanding to larger size*/
+.title-img {
+  width: 50%;
+  margin: 5% 5% 5% 5%;
+  transform: rotate(20deg);
+}
+
+.press-logo {
+  width: 10%;
+  margin: 20px;
+}
+
+#title {
+  background-color: #FF4C68;
+  color: #FFFFFF;
+}
+
+#features {
+  margin: 7% 15% 7% 15%;
+}
+
+#testimonials {
+  background-color: #EF8273;
+  color: #FFFFFF;
+  padding: 7% 15% 7% 15%;
+  text-align: center;
+}
+
+#press {
+  background-color: #EF8273;
+  text-align: center;
+  padding-bottom: 3%;
+}
