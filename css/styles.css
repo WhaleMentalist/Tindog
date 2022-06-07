@@ -19,6 +19,14 @@ h2 {
   padding: 0 15% 0 15%;
 }
 
+h3 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  padding: 0 15% 0 15%;
+}
+
 p {
   color: #8F8F8F;
 }
@@ -34,6 +42,10 @@ p {
 
 .feature-icon {
   color: #EF8273;
+}
+
+.social-media-icon {
+  margin: 0 20px 20px 0;
 }
 
 .feature-icon:hover {
@@ -65,12 +77,13 @@ p {
 
 .title-img {
   position: absolute;
-  padding: 4% 4% 4% 4%;
+  padding: 0 0 30px 30px;
   transform: rotate(30deg);
   width: 45%;
 }
 
 @media (max-width: 991.98px) {
+
   .title-img {
     position: static;
     transform: rotate(0);
@@ -79,6 +92,7 @@ p {
   #title {
     text-align: center;
   }
+
 }
 
 .press-logo {
@@ -89,7 +103,6 @@ p {
 #title {
   background-color: #FF4C68;
   color: #FFFFFF;
-  position: relative;
 }
 
 #features {
@@ -115,4 +128,16 @@ p {
 #pricing {
   padding: 100px;
   text-align: center;
+}
+
+#cta {
+  background-color: #FF4C68;
+  color: #FFFFFF;
+  padding: 7% 15% 7% 15%;
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+  padding: 7% 15% 7% 15%;
 }
